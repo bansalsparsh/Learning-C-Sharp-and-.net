@@ -33,9 +33,10 @@ class Program
         //     case 5:
         //         Console.Write("We have 5");
         //         break;
-        //     Default:
+        //     default:
         //         Console.Write("We have default");
         //         break;
         // }
     }
+
 }
