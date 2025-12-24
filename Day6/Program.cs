@@ -70,7 +70,7 @@ class Program
 
 
 
-        //Smart Trade
+        //Real Time trading System
         PriceSnapShot pss = new PriceSnapShot
         {
             StockSymbol="AACP",
@@ -122,4 +122,5 @@ class Program
         int Total = (int)obj;
         Console.WriteLine($"Unboxed Total Trades: {Total}");
     }
+
 }
