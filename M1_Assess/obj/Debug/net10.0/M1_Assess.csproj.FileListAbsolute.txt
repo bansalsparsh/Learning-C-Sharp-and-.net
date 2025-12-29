@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\C# .net\FirstApp\M1_Assess\obj\Debug\net10.0\M1_Assess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C# .net\FirstApp\M1_Assess\obj\Debug\net10.0\M1_Assess.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C# .net\FirstApp\M1_Assess\obj\Debug\net10.0\M1_Assess.AssemblyInfo.cs
+C:\Users\HP\Desktop\C# .net\FirstApp\M1_Assess\obj\Debug\net10.0\M1_Assess.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# .net\FirstApp\M1_Assess\bin\Debug\net10.0\M1_Assess.exe
+C:\Users\HP\Desktop\C# .net\FirstApp\M1_Assess\bin\Debug\net10.0\M1_Assess.deps.json
+C:\Users\HP\Desktop\C# .net\FirstApp\M1_Assess\bin\Debug\net10.0\M1_Assess.runtimeconfig.json
+C:\Users\HP\Desktop\C# .net\FirstApp\M1_Assess\bin\Debug\net10.0\M1_Assess.dll
+C:\Users\HP\Desktop\C# .net\FirstApp\M1_Assess\bin\Debug\net10.0\M1_Assess.pdb
+C:\Users\HP\Desktop\C# .net\FirstApp\M1_Assess\obj\Debug\net10.0\M1_Assess.dll
+C:\Users\HP\Desktop\C# .net\FirstApp\M1_Assess\obj\Debug\net10.0\refint\M1_Assess.dll
+C:\Users\HP\Desktop\C# .net\FirstApp\M1_Assess\obj\Debug\net10.0\M1_Assess.pdb
+C:\Users\HP\Desktop\C# .net\FirstApp\M1_Assess\obj\Debug\net10.0\M1_Assess.genruntimeconfig.cache
+C:\Users\HP\Desktop\C# .net\FirstApp\M1_Assess\obj\Debug\net10.0\ref\M1_Assess.dll

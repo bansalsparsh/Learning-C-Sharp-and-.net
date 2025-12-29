@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\C# .net\FirstApp\Projects\QuickMart\bin\Debug\net10.0\QuickMart.exe
+C:\Users\HP\Desktop\C# .net\FirstApp\Projects\QuickMart\bin\Debug\net10.0\QuickMart.deps.json
+C:\Users\HP\Desktop\C# .net\FirstApp\Projects\QuickMart\bin\Debug\net10.0\QuickMart.runtimeconfig.json
+C:\Users\HP\Desktop\C# .net\FirstApp\Projects\QuickMart\bin\Debug\net10.0\QuickMart.dll
+C:\Users\HP\Desktop\C# .net\FirstApp\Projects\QuickMart\bin\Debug\net10.0\QuickMart.pdb
+C:\Users\HP\Desktop\C# .net\FirstApp\Projects\QuickMart\obj\Debug\net10.0\QuickMart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C# .net\FirstApp\Projects\QuickMart\obj\Debug\net10.0\QuickMart.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C# .net\FirstApp\Projects\QuickMart\obj\Debug\net10.0\QuickMart.AssemblyInfo.cs
+C:\Users\HP\Desktop\C# .net\FirstApp\Projects\QuickMart\obj\Debug\net10.0\QuickMart.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# .net\FirstApp\Projects\QuickMart\obj\Debug\net10.0\QuickMart.dll
+C:\Users\HP\Desktop\C# .net\FirstApp\Projects\QuickMart\obj\Debug\net10.0\refint\QuickMart.dll
+C:\Users\HP\Desktop\C# .net\FirstApp\Projects\QuickMart\obj\Debug\net10.0\QuickMart.pdb
+C:\Users\HP\Desktop\C# .net\FirstApp\Projects\QuickMart\obj\Debug\net10.0\QuickMart.genruntimeconfig.cache
+C:\Users\HP\Desktop\C# .net\FirstApp\Projects\QuickMart\obj\Debug\net10.0\ref\QuickMart.dll
