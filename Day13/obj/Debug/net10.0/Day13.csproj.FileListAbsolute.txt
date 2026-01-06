@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\C# .net\Day13\bin\Debug\net10.0\Day13.exe
+C:\Users\HP\Desktop\C# .net\Day13\bin\Debug\net10.0\Day13.deps.json
+C:\Users\HP\Desktop\C# .net\Day13\bin\Debug\net10.0\Day13.runtimeconfig.json
+C:\Users\HP\Desktop\C# .net\Day13\bin\Debug\net10.0\Day13.dll
+C:\Users\HP\Desktop\C# .net\Day13\bin\Debug\net10.0\Day13.pdb
+C:\Users\HP\Desktop\C# .net\Day13\obj\Debug\net10.0\Day13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C# .net\Day13\obj\Debug\net10.0\Day13.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C# .net\Day13\obj\Debug\net10.0\Day13.AssemblyInfo.cs
+C:\Users\HP\Desktop\C# .net\Day13\obj\Debug\net10.0\Day13.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# .net\Day13\obj\Debug\net10.0\Day13.dll
+C:\Users\HP\Desktop\C# .net\Day13\obj\Debug\net10.0\refint\Day13.dll
+C:\Users\HP\Desktop\C# .net\Day13\obj\Debug\net10.0\Day13.pdb
+C:\Users\HP\Desktop\C# .net\Day13\obj\Debug\net10.0\Day13.genruntimeconfig.cache
+C:\Users\HP\Desktop\C# .net\Day13\obj\Debug\net10.0\ref\Day13.dll

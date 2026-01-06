@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\C# .net\Day10\obj\Debug\net10.0\Day10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C# .net\Day10\obj\Debug\net10.0\Day10.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C# .net\Day10\obj\Debug\net10.0\Day10.AssemblyInfo.cs
+C:\Users\HP\Desktop\C# .net\Day10\obj\Debug\net10.0\Day10.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# .net\Day10\bin\Debug\net10.0\Day10.exe
+C:\Users\HP\Desktop\C# .net\Day10\bin\Debug\net10.0\Day10.deps.json
+C:\Users\HP\Desktop\C# .net\Day10\bin\Debug\net10.0\Day10.runtimeconfig.json
+C:\Users\HP\Desktop\C# .net\Day10\bin\Debug\net10.0\Day10.dll
+C:\Users\HP\Desktop\C# .net\Day10\bin\Debug\net10.0\Day10.pdb
+C:\Users\HP\Desktop\C# .net\Day10\obj\Debug\net10.0\Day10.dll
+C:\Users\HP\Desktop\C# .net\Day10\obj\Debug\net10.0\refint\Day10.dll
+C:\Users\HP\Desktop\C# .net\Day10\obj\Debug\net10.0\Day10.pdb
+C:\Users\HP\Desktop\C# .net\Day10\obj\Debug\net10.0\Day10.genruntimeconfig.cache
+C:\Users\HP\Desktop\C# .net\Day10\obj\Debug\net10.0\ref\Day10.dll
