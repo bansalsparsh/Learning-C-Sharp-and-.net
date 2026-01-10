@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\C# .net\Projects\DialingCodesApp\bin\Debug\net10.0\DialingCodesApp.exe
+C:\Users\HP\Desktop\C# .net\Projects\DialingCodesApp\bin\Debug\net10.0\DialingCodesApp.deps.json
+C:\Users\HP\Desktop\C# .net\Projects\DialingCodesApp\bin\Debug\net10.0\DialingCodesApp.runtimeconfig.json
+C:\Users\HP\Desktop\C# .net\Projects\DialingCodesApp\bin\Debug\net10.0\DialingCodesApp.dll
+C:\Users\HP\Desktop\C# .net\Projects\DialingCodesApp\bin\Debug\net10.0\DialingCodesApp.pdb
+C:\Users\HP\Desktop\C# .net\Projects\DialingCodesApp\obj\Debug\net10.0\DialingCodesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C# .net\Projects\DialingCodesApp\obj\Debug\net10.0\DialingCodesApp.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C# .net\Projects\DialingCodesApp\obj\Debug\net10.0\DialingCodesApp.AssemblyInfo.cs
+C:\Users\HP\Desktop\C# .net\Projects\DialingCodesApp\obj\Debug\net10.0\DialingCodesApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# .net\Projects\DialingCodesApp\obj\Debug\net10.0\DialingCodesApp.dll
+C:\Users\HP\Desktop\C# .net\Projects\DialingCodesApp\obj\Debug\net10.0\refint\DialingCodesApp.dll
+C:\Users\HP\Desktop\C# .net\Projects\DialingCodesApp\obj\Debug\net10.0\DialingCodesApp.pdb
+C:\Users\HP\Desktop\C# .net\Projects\DialingCodesApp\obj\Debug\net10.0\DialingCodesApp.genruntimeconfig.cache
+C:\Users\HP\Desktop\C# .net\Projects\DialingCodesApp\obj\Debug\net10.0\ref\DialingCodesApp.dll
