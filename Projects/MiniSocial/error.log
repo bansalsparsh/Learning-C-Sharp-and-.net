@@ -1,0 +1,45 @@
+1/15/2026 3:56:01 PM
+System.ArgumentNullException: Value cannot be null. (Parameter 'input')
+   at System.Text.RegularExpressions.ThrowHelper.ThrowArgumentNullException(ExceptionArgument arg)
+   at System.Text.RegularExpressions.Regex.IsMatch(String input)
+   at MiniSocialMedia.User..ctor(String username, String email) in C:\Users\HP\Desktop\C# .net\Projects\MiniSocial\Program.cs:line 64
+   at MiniSocialMedia.Program.Register() in C:\Users\HP\Desktop\C# .net\Projects\MiniSocial\Program.cs:line 208
+   at MiniSocialMedia.Program.ShowLoginMenu() in C:\Users\HP\Desktop\C# .net\Projects\MiniSocial\Program.cs:line 187
+   at MiniSocialMedia.Program.Main() in C:\Users\HP\Desktop\C# .net\Projects\MiniSocial\Program.cs:line 164
+
+1/15/2026 3:58:32 PM
+System.ArgumentNullException: Value cannot be null. (Parameter 'input')
+   at System.Text.RegularExpressions.ThrowHelper.ThrowArgumentNullException(ExceptionArgument arg)
+   at System.Text.RegularExpressions.Regex.IsMatch(String input)
+   at MiniSocialMedia.User..ctor(String username, String email) in C:\Users\HP\Desktop\C# .net\Projects\MiniSocial\Program.cs:line 64
+   at MiniSocialMedia.Program.Register() in C:\Users\HP\Desktop\C# .net\Projects\MiniSocial\Program.cs:line 208
+   at MiniSocialMedia.Program.ShowLoginMenu() in C:\Users\HP\Desktop\C# .net\Projects\MiniSocial\Program.cs:line 187
+   at MiniSocialMedia.Program.Main() in C:\Users\HP\Desktop\C# .net\Projects\MiniSocial\Program.cs:line 164
+
+1/15/2026 3:59:09 PM
+System.ArgumentNullException: Value cannot be null. (Parameter 'input')
+   at System.Text.RegularExpressions.ThrowHelper.ThrowArgumentNullException(ExceptionArgument arg)
+   at System.Text.RegularExpressions.Regex.IsMatch(String input)
+   at MiniSocialMedia.User..ctor(String username, String email) in C:\Users\HP\Desktop\C# .net\Projects\MiniSocial\Program.cs:line 64
+   at MiniSocialMedia.Program.Register() in C:\Users\HP\Desktop\C# .net\Projects\MiniSocial\Program.cs:line 208
+   at MiniSocialMedia.Program.ShowLoginMenu() in C:\Users\HP\Desktop\C# .net\Projects\MiniSocial\Program.cs:line 187
+   at MiniSocialMedia.Program.Main() in C:\Users\HP\Desktop\C# .net\Projects\MiniSocial\Program.cs:line 164
+
+1/15/2026 4:00:55 PM
+System.ArgumentNullException: Value cannot be null. (Parameter 'input')
+   at System.Text.RegularExpressions.ThrowHelper.ThrowArgumentNullException(ExceptionArgument arg)
+   at System.Text.RegularExpressions.Regex.IsMatch(String input)
+   at MiniSocialMedia.User..ctor(String username, String email) in C:\Users\HP\Desktop\C# .net\Projects\MiniSocial\Program.cs:line 64
+   at MiniSocialMedia.Program.Register() in C:\Users\HP\Desktop\C# .net\Projects\MiniSocial\Program.cs:line 208
+   at MiniSocialMedia.Program.ShowLoginMenu() in C:\Users\HP\Desktop\C# .net\Projects\MiniSocial\Program.cs:line 187
+   at MiniSocialMedia.Program.Main() in C:\Users\HP\Desktop\C# .net\Projects\MiniSocial\Program.cs:line 164
+
+1/15/2026 4:03:50 PM
+System.ArgumentNullException: Value cannot be null. (Parameter 'input')
+   at System.Text.RegularExpressions.ThrowHelper.ThrowArgumentNullException(ExceptionArgument arg)
+   at System.Text.RegularExpressions.Regex.IsMatch(String input)
+   at MiniSocialMedia.User..ctor(String username, String email) in C:\Users\HP\Desktop\C# .net\Projects\MiniSocial\Program.cs:line 64
+   at MiniSocialMedia.Program.Register() in C:\Users\HP\Desktop\C# .net\Projects\MiniSocial\Program.cs:line 208
+   at MiniSocialMedia.Program.ShowLoginMenu() in C:\Users\HP\Desktop\C# .net\Projects\MiniSocial\Program.cs:line 187
+   at MiniSocialMedia.Program.Main() in C:\Users\HP\Desktop\C# .net\Projects\MiniSocial\Program.cs:line 164
+

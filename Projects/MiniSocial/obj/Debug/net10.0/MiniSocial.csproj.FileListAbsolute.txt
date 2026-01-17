@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\C# .net\Projects\MiniSocial\obj\Debug\net10.0\MiniSocial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C# .net\Projects\MiniSocial\obj\Debug\net10.0\MiniSocial.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C# .net\Projects\MiniSocial\obj\Debug\net10.0\MiniSocial.AssemblyInfo.cs
+C:\Users\HP\Desktop\C# .net\Projects\MiniSocial\obj\Debug\net10.0\MiniSocial.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# .net\Projects\MiniSocial\bin\Debug\net10.0\MiniSocial.exe
+C:\Users\HP\Desktop\C# .net\Projects\MiniSocial\bin\Debug\net10.0\MiniSocial.deps.json
+C:\Users\HP\Desktop\C# .net\Projects\MiniSocial\bin\Debug\net10.0\MiniSocial.runtimeconfig.json
+C:\Users\HP\Desktop\C# .net\Projects\MiniSocial\bin\Debug\net10.0\MiniSocial.dll
+C:\Users\HP\Desktop\C# .net\Projects\MiniSocial\bin\Debug\net10.0\MiniSocial.pdb
+C:\Users\HP\Desktop\C# .net\Projects\MiniSocial\obj\Debug\net10.0\MiniSocial.dll
+C:\Users\HP\Desktop\C# .net\Projects\MiniSocial\obj\Debug\net10.0\refint\MiniSocial.dll
+C:\Users\HP\Desktop\C# .net\Projects\MiniSocial\obj\Debug\net10.0\MiniSocial.pdb
+C:\Users\HP\Desktop\C# .net\Projects\MiniSocial\obj\Debug\net10.0\MiniSocial.genruntimeconfig.cache
+C:\Users\HP\Desktop\C# .net\Projects\MiniSocial\obj\Debug\net10.0\ref\MiniSocial.dll
