@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\C# .net\Projects\AutonomousRobotAI\bin\Debug\net10.0\AutonomousRobotAI.exe
+C:\Users\HP\Desktop\C# .net\Projects\AutonomousRobotAI\bin\Debug\net10.0\AutonomousRobotAI.deps.json
+C:\Users\HP\Desktop\C# .net\Projects\AutonomousRobotAI\bin\Debug\net10.0\AutonomousRobotAI.runtimeconfig.json
+C:\Users\HP\Desktop\C# .net\Projects\AutonomousRobotAI\bin\Debug\net10.0\AutonomousRobotAI.dll
+C:\Users\HP\Desktop\C# .net\Projects\AutonomousRobotAI\bin\Debug\net10.0\AutonomousRobotAI.pdb
+C:\Users\HP\Desktop\C# .net\Projects\AutonomousRobotAI\obj\Debug\net10.0\AutonomousRobotAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C# .net\Projects\AutonomousRobotAI\obj\Debug\net10.0\AutonomousRobotAI.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C# .net\Projects\AutonomousRobotAI\obj\Debug\net10.0\AutonomousRobotAI.AssemblyInfo.cs
+C:\Users\HP\Desktop\C# .net\Projects\AutonomousRobotAI\obj\Debug\net10.0\AutonomousRobotAI.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# .net\Projects\AutonomousRobotAI\obj\Debug\net10.0\AutonomousRobotAI.dll
+C:\Users\HP\Desktop\C# .net\Projects\AutonomousRobotAI\obj\Debug\net10.0\refint\AutonomousRobotAI.dll
+C:\Users\HP\Desktop\C# .net\Projects\AutonomousRobotAI\obj\Debug\net10.0\AutonomousRobotAI.pdb
+C:\Users\HP\Desktop\C# .net\Projects\AutonomousRobotAI\obj\Debug\net10.0\AutonomousRobotAI.genruntimeconfig.cache
+C:\Users\HP\Desktop\C# .net\Projects\AutonomousRobotAI\obj\Debug\net10.0\ref\AutonomousRobotAI.dll
