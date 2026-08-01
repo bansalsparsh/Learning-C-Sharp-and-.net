@@ -1,26 +1,30 @@
 using System;
+using System.Collections.Generic;
 using System.Text;
-class FlipLogic
+class Solution
 {
-    public string CleanseAndInvert(string input)
+    public static string CleanseAndInvert(string input)
     {
-        if(input.Length < 6) return "";
+        if(input.Length < 6) return "Invalid Input";
 
         input=input.ToLower();
-        char[] arr = new char[input.Length];
-        int x=0;
+        List<char> list = new List<char>();
         for(int i = 0; i < input.Length; i++)
         {
             char c = input[i];
-            if (!char.IsLetter(c)) return "";
-            int ascii = c;
-            if (ascii % 2 != 0) arr[x++]=c;
+            if (!char.IsLetter(c)) return "Invalid Input";
+            if (((int)c) % 2 != 0) list.Add(c);
         }
-        Array.Reverse(arr);
-        for(int i = 0; i < arr.Length; i += 2)
+        list.Reverse();
+        for(int i = 0; i<list.Count; i += 2)
         { 
-            arr[i]=Char.ToUpper(arr[i]);
+            list[i]=Char.ToUpper(list[i]);
         }
-        return new String(arr);
+        return string.Concat(list);
+    }
+    public static void Main(string[] args){
+        string s = Console.ReadLine();
+        string ans = CleanseAndInvert(s);
+        Console.WriteLine(ans.Trim());
     }
 }
